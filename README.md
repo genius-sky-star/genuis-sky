@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://unsplash.com/photos/UT8LMo-wlyk?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" width="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="#">
@@ -19,7 +19,7 @@
 ---
 
 - I’m a passionate senior full stack engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I 've worked for serveral companies , agile scrum teams as a lead engineer .
+- I'm working on various field, program languages and frameworks
 
 ---
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastapi-3C3C3D?style=for-the-badge&logo=Fastapi&logoColor=white" />
 <br>
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenplanet0204&theme=react&layout=compact&langs_count=10&hide_title=true"/>
